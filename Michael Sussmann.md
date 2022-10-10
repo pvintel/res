@@ -1,0 +1,4 @@
+# Michael Sussmann
+Michael A. Sussmann (born 1964) is an American former federal prosecutor and a former partner at the law firm Perkins Coie, who focused on privacy and cybersecurity law. Sussmann represented the Democratic National Committee (DNC) and retained [[CrowdStrike Holdings, Inc.]] to examine its servers after two Russian hacker groups penetrated DNC networks and stole information during the 2016 U.S. elections.
+
+The Trump administration appointed John Durham as special counsel to investigate the origins of the FBI probe into links between Trump associates and Russian officials. Durham spent three years on the investigation and, in 2021, brought a single charge of making false statements against Sussmann, accusing him of having lied to the FBI in one meeting in 2016, with no witnesses. Sussman pleaded not guilty. After a jury trial in May 2022, Sussman was unanimously acquitted.

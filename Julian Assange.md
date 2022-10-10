@@ -1,0 +1,23 @@
+# Julian Assange
+Julian Paul Assange (/əˈsɑːnʒ/; né Hawkins; born 3 July 1971) is an Australian editor, publisher, and activist who founded WikiLeaks in 2006. WikiLeaks came to international attention in 2010 when it published a series of leaks provided by U.S. Army intelligence analyst Chelsea Manning. These leaks included the Baghdad airstrike Collateral Murder video (April 2010), the Afghanistan war logs (July 2010), the Iraq war logs (October 2010), and Cablegate (November 2010). After the 2010 leaks, the United States government launched a criminal investigation into WikiLeaks.
+
+In November 2010, [[Sweden]] issued an European arrest warrant for Assange over allegations of sexual misconduct. Assange said the allegations were a pretext for his extradition from Sweden to the United States over his role in the publication of secret American documents. After losing his battle against extradition to Sweden, he breached bail and took refuge in the Embassy of Ecuador in London in June 2012. He was granted asylum by Ecuador in August 2012 on the grounds of political persecution, with the presumption that if he were extradited to Sweden, he would be eventually extradited to the United States. Swedish prosecutors dropped their investigation in 2019, saying their evidence had "weakened considerably due to the long period of time that has elapsed since the events in question".
+
+During the 2016 U.S. election campaign, WikiLeaks published confidential Democratic Party emails, showing that the party's national committee favoured Hillary Clinton over her rival Bernie Sanders in the primaries. In March 2017, WikiLeaks published a series of documents which detailed the [[Central Intelligence Agency (CIA)|CIA's]] electronic surveillance and cyber warfare capabilities, after which senior CIA officials discussed potentially kidnapping or assassinating Assange.
+
+On 11 April 2019, Assange's asylum was withdrawn following a series of disputes with the Ecuadorian authorities. The police were invited into the embassy and he was arrested. He was found guilty of breaching the Bail Act and sentenced to 50 weeks in prison. The United States government unsealed an indictment against Assange related to the leaks provided by Manning. On 23 May 2019, the United States government further charged Assange with violating the Espionage Act of 1917. Editors from newspapers, including The Washington Post and The New York Times, as well as press freedom organisations, criticised the government's decision to charge Assange under the Espionage Act, characterising it as an attack on the First Amendment to the United States Constitution, which guarantees freedom of the press.
+
+On 4 January 2021, UK District Judge Vanessa Baraitser ruled against the United States' request to extradite Assange and stated that doing so would be "oppressive" given concerns over Assange's mental health and risk of suicide. On 6 January 2021, Assange was denied bail, pending an appeal by the United States. On 10 December 2021, the High Court in London ruled that Assange could be extradited to the US to face the charges. In March 2022, the UK Supreme Court refused Assange permission to appeal. On 17 June 2022, Home Secretary Priti Patel approved the extradition. On 1 July 2022, it was announced that Assange had formally appealed against the extradition order.
+
+Assange has been confined in Belmarsh, a category A prison, in London since April 2019.
+
+## Wikileaks’ PlusD Cables
+WikiLeaks began publishing 251,287 leaked United States embassy cables , the largest set of confidential documents ever to be released into the public domain. The documents will give people around the world an unprecedented insight into the US Government’s foreign activities."
+
+Amazon.com forced WikiLeaks to stop using the U.S. company's computers to distribute embarrassing State Department communications and other documents. 
+
+[[Sweden|Sweden’s]] International Public Prosecution Office in Gothenburg issued an arrest warrant for the secretive activist on November 18, 2010, citing “probable cause of suspected rape, sexual molestation and unlawful coercion.”  
+
+The Obama administration banned hundreds of thousands of federal employees from calling up the WikiLeaks site on government computers because the leaked material was still formally regarded as classified. 
+
+After the publication of the PlusD cables and the U.S. and Swedish governments looked the other way while Swedish Telecom giant [[Ericsson]] continued to supply telecommunications equipment to known terrorists, Hillary Clinton’s [[United States Department of State|State Department]] and the Swedish government needed to hatch a plan to get rid of Julian Assange. 

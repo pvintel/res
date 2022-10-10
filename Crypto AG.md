@@ -1,0 +1,4 @@
+# Crypto AG
+Crypto AG was a Swiss company specialising in communications and information security founded by Boris Hagelin in 1952. The company was secretly purchased for US $5.75 million and jointly owned by the American [[Central Intelligence Agency (CIA)]]) and West German Federal Intelligence Service (BND) from 1970 until about 1993, with the CIA continuing as sole owner until about 2018. The mission of breaking encrypted communication using a secretly owned company was known as "Operation Rubikon". With headquarters in Steinhausen, the company was a long-established manufacturer of encryption machines and a wide variety of cipher devices. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qJs9eRhDN88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,7 @@
+# Timothy Geithner
+Timothy Franz Geithner (/ˈɡaɪtnər/; born August 18, 1961) is a former American central banker who served as the 75th United States Secretary of the Treasury under President Barack Obama from 2009 to 2013. He was the President of the Federal Reserve Bank of New York from 2003 to 2009, following service in the Clinton administration. Since March 2014, he has served as president and managing director of [[Warburg Pincus LLC]], a private equity firm headquartered in New York City.
+
+As President of the New York Fed and Secretary of the Treasury, Geithner had a key role in government efforts to recover from the financial crisis of 2007–08 and the Great Recession. At the New York Fed, Geithner helped manage crises involving Bear Stearns, Lehman Brothers, and the American International Group; as Treasury Secretary, he oversaw allocation of $350 billion under the Troubled Asset Relief Program, enacted during the previous administration in response to the subprime mortgage crisis. Geithner also managed the administration's efforts to restructure regulation of the nation's financial system, attempts to spur recovery of the mortgage market and the automobile industry, demands for protectionism, tax reform, and negotiations with foreign governments on global finance issues.
+
+Timothy Geithner is currently listed as Power of Attorney for [[CrowdStrike Holdings, Inc.]]. [^1]
+[^1]: https://ir.crowdstrike.com/node/8736/html
