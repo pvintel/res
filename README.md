@@ -5,7 +5,7 @@ Here you will find the latest research done by 𝙿𝙻𝚅𝚂 𝚅𝙻𝚃𝚁
 
 # Open with Obsidian Application
 * First download and install [Obsidian.md](https://obsidian.md/) onto your computer or mobile device.
-* Download the most up-to-date res from [here](https://github.com/pvintel/res/archive/refs/heads/main.zip) or [main page](https://github.com/pvintel/res)
+* Download the most up-to-date res from [here](https://github.com/pvintel/res/archive/refs/heads/main.zip) or clicking at the code and downloading as a zip.
 * Click the open folder as vault and select the "data" folder as your vault. Feel free to rename to whatever you want. If you want to help contribute to the research, create a github account and create issues with the files and we can update. 
 
 ![Vault](https://user-images.githubusercontent.com/115485095/194919094-27a3600e-46b7-4df4-bf44-4018b76dc0d2.PNG)
