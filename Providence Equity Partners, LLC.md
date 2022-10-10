@@ -1,4 +1,0 @@
-# Providence Equity Partners LLC
-Providence Equity Partners L.L.C. is a specialist private equity investment firm focused on media, communications, education, technology investments across North America and Europe. The firm specializes in growth-oriented private equity investments and has invested in more than 170 companies globally since its inception in 1989.
-
-The firm manages funds with over $31 billion in aggregate private equity capital commitments, making it a large global player in the private equity industry. Providence was one of the principal pioneers of a sector-based approach to private equity investing. The firm's eighth fund, Providence Equity Partners VIII, closed on $6 billion in 2019, above its $5 billion target. The prior fund, Providence VII, closed with $5 billion in 2013.
