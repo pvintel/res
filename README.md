@@ -9,3 +9,5 @@ Here you will find the latest research done by 𝙿𝙻𝚅𝚂 𝚅𝙻𝚃𝚁
 * Click the open folder as vault and select the "data" folder as your vault. Feel free to rename to whatever you want. If you want to help contribute to the research, create a github account and create issues with the files and we can update. 
 
 ![Vault](https://user-images.githubusercontent.com/115485095/194919094-27a3600e-46b7-4df4-bf44-4018b76dc0d2.PNG)
+
+For further information on how to syntax your notes in Obsidian, visit their [help site](https://help.obsidian.md/How+to/Format+your+notes)
