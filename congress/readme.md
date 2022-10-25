@@ -1,4 +1,4 @@
-# Neustar, Telcordia battle over FCC contract to play traffic cop forphone calls, texts
+# Neustar, Telcordia battle over FCC contract to play traffic cop for phone calls, texts
 - By Ellen Nakashima
 - August 9, 2014
 
